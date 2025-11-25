@@ -1,5 +1,7 @@
 # iapple_priv_algo
 
+### Service: Code sale(note:2022 years Development). Price: $500 (USD). Deliverable: Source code only. Please note that this price does not include any future revisions, maintenance, or feature additions.
+
 ## Overview 概述
 iapple_priv_algo is a research toolkit that reverse-engineers how Apple’s private authentication stack works on iOS, bundling jailbreak tweaks, CLI helpers, Frida scripts, and trace captures so each anisette/SRP/PCS phase can be replayed inside `akd`.  
 iapple_priv_algo 是一个面向研究的工具集，用于复现 iOS 上 Apple 私有认证栈的细节，集合了越狱插件、命令行工具、Frida 脚本与抓包数据，方便在 `akd` 内还原 anisette、SRP、PCS 等环节。
